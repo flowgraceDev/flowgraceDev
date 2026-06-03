@@ -30,7 +30,7 @@ I've built SaaS platforms, fintech applications, AI-powered tools, custom CMS so
 - GitHub: https://github.com/flowgraceDev
 - Upwork: https://www.upwork.com/freelancers/~015d9f32f6e880b730
 - LinkedIn:https://www.linkedin.com/in/flowgracedev
-- Email: vinn4200@gmial.com
+- Email: vinn4200@gmail.com
 ---
 
 ## 💡 Philosophy
