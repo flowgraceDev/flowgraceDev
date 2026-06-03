@@ -28,8 +28,8 @@ I've built SaaS platforms, fintech applications, AI-powered tools, custom CMS so
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/flowgraceDev
-- Upwork: [https://www.upwork.com/freelancers/your-profile](https://www.upwork.com/freelancers/~015d9f32f6e880b730)
-- LinkedIn:[ https://linkedin.com/in/your-profile](https://www.linkedin.com/in/flowgracedev/)
+- Upwork: https://www.upwork.com/freelancers/~015d9f32f6e880b730
+- LinkedIn:https://www.linkedin.com/in/flowgracedev
 - Email: vinn4200@gmial.com
 ---
 
