@@ -4,7 +4,7 @@ I'm a passionate Full-Stack Developer specializing in React.js, Next.js, Node.js
 
 About Me
 
-💼 Senior Full-Stack Developer with 7+ years of experience
+💼 Senior Full-Stack Developer with 5 years of experience
 🚀 Building SaaS, AI, and enterprise applications
 🌱 Exploring Generative AI, automation, and cloud technologies
 🤝 Open to freelance, contract, and collaboration opportunities
