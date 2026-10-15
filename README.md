@@ -1,42 +1,44 @@
 Hi, I'm Vinay Kumar 👋
 
-I'm a passionate Full-Stack Developer specializing in React.js, Next.js, Node.js, and AI-powered applications. I enjoy building scalable SaaS platforms, fintech products, booking systems, and modern web applications.
+Senior Backend Engineer | Node.js · NestJS · Next.js · TypeScript
+
+I build scalable web applications, SaaS products, and production-ready backend systems. Over 5 years, I've worked on booking platforms, fintech products, and real-time systems using Node.js microservices and event-driven architecture.
+
+📍 Chandigarh, India
 
 About Me
-
-💼 Senior Full-Stack Developer with 5 years of experience
-🚀 Building SaaS, AI, and enterprise applications
-🌱 Exploring Generative AI, automation, and cloud technologies
+💼 Senior Node.js Developer at Dev Quarters Innovations
+🚀 Architecting Node.js microservices and event-driven systems with Redis Pub/Sub
+🎓 MCA, Himachal Pradesh University
 🤝 Open to freelance, contract, and collaboration opportunities
-
 Tech Stack
 
-Frontend: React.js, Next.js, TypeScript, Tailwind CSS
+Languages: JavaScript, TypeScript
 
-Backend: Node.js, NestJS, Express.js
+Backend: Node.js, Express.js, NestJS, REST APIs, Microservices, Redis Pub/Sub
 
-Databases: MongoDB, PostgreSQL, MySQL
+Frontend: React.js, Next.js
 
-Payments: Stripe, PayPal, Razorpay
+Databases: MongoDB, PostgreSQL, Supabase
 
-Tools: Git, GitHub, Jira, Docker, AWS
+Payments & Integrations: Stripe, Razorpay, Twilio, Google Maps API, Web3.js
 
-Projects
+Tools & Deployment: Git, PM2, AWS
 
-I've built SaaS platforms, fintech applications, AI-powered tools, custom CMS solutions, and high-performance booking systems for startups and businesses worldwide.
+Featured Projects
+Project	Description	Stack
+ARC — Anywhere Rental Car	Hybrid car-rental and ride-hailing platform with real-time booking and dispatch	Node.js, PostgreSQL, Redis, Socket.io, Maps API
+Bitdenex	European regulated crypto exchange with fiat on-ramp and multi-coin support	Node.js, PostgreSQL, Web3.js, Hardhat, AWS
+MyWayMassage	Wellness booking platform with therapist availability and scheduling	Node.js, Express, PostgreSQL, Stripe
+Holiday Tour Booking	Online travel platform with dynamic package builder and payment gateway	Node.js, PostgreSQL, Razorpay, Twilio SMS
+🌐 Connect With Me
+LinkedIn: linkedin.com/in/flowgracedev
+Upwork: My Upwork profile
+Email: Vinn4200@gmail.com
+💡 Philosophy
 
-## 🌐 Connect With Me
+Clean code, scalable architecture, and business-focused solutions.
 
-- GitHub: https://github.com/flowgraceDev
-- Upwork: https://www.upwork.com/freelancers/~015d9f32f6e880b730
-- LinkedIn:https://www.linkedin.com/in/flowgracedev
-- Email: vinn4200@gmail.com
----
-
-## 💡 Philosophy
-
-> Clean code, scalable architecture, and business-focused solutions.
-
-I enjoy helping startups and businesses build reliable products that scale. Whether it's a new SaaS platform, AI integration, performance optimization, or long-term product development, I'm always excited to solve challenging problems and create meaningful digital experiences.
+I enjoy helping startups and businesses build reliable products that scale, whether it's a new SaaS platform, performance optimization, or long-term product development.
 
 ⭐ If you like my work, consider following my repositories and connecting with me.
